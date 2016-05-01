@@ -1,0 +1,2 @@
+C:\Users\James\Source\Repos\UWPLesson\Leetcode\L1TwoSum\bin\Debug\L1TwoSum.exe.config
+C:\Users\James\Source\Repos\LeetCode\Leetcode\L1TwoSum\bin\Debug\L1TwoSum.exe.config
