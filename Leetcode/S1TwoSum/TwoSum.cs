@@ -1,28 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace S1TwoSum
 {
-    public class TwoSum
+    public class LeetCodeTwoSum
     {
         public int[] TwoSum(int[] nums, int target)
+        {            
+            return TwoSumHelper(nums, target,0);
+
+        }
+
+        private int[] TwoSumHelper(int[] nums, int target,int time)
         {
-            IList<int> newNums = new List<int>();
-            for (int i = 0; i < nums.Length; i++)
+            int[] result = { 0,0};
+            result[0] = time;
+            for(int i = time + 1 ; i < nums.Length; i++)
             {
-                if (nums[i] <= target)
+                if(nums[time]+ nums[i]== target)
                 {
-                    newNums.Add(nums[i]);
+                    result[1] = i;
+                    return result;
                 }
             }
+            return TwoSumHelper(nums, target,time+1);
         }
 
-        private int[] TwoSumHelper(List<int> newNums)
-        {
 
-        }
+
     }
 }
