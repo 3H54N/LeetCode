@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S1TwoSum", "S1TwoSum\S1TwoS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeTests", "LeetcodeTests\LeetcodeTests.csproj", "{F9FC3EB0-0579-4572-B8A6-DBD0C6286754}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2AddTwoNumbers", "S2AddTwoNumbers\S2AddTwoNumbers.csproj", "{60733E85-C41E-42EB-8518-A4EE459214A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F9FC3EB0-0579-4572-B8A6-DBD0C6286754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9FC3EB0-0579-4572-B8A6-DBD0C6286754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9FC3EB0-0579-4572-B8A6-DBD0C6286754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60733E85-C41E-42EB-8518-A4EE459214A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60733E85-C41E-42EB-8518-A4EE459214A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60733E85-C41E-42EB-8518-A4EE459214A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60733E85-C41E-42EB-8518-A4EE459214A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

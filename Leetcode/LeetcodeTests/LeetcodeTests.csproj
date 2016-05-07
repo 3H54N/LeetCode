@@ -59,6 +59,10 @@
       <Project>{91142C4F-5D96-4BF5-AA06-BE1ACFCC2BC5}</Project>
       <Name>S1TwoSum</Name>
     </ProjectReference>
+    <ProjectReference Include="..\S2AddTwoNumbers\S2AddTwoNumbers.csproj">
+      <Project>{60733e85-c41e-42eb-8518-a4ee459214a8}</Project>
+      <Name>S2AddTwoNumbers</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
