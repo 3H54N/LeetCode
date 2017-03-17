@@ -1,0 +1,11 @@
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\bin\Debug\LeetcodeTests.dll
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\bin\Debug\LeetcodeTests.pdb
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\bin\Debug\S1TwoSum.dll
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\bin\Debug\S1TwoSum.pdb
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\obj\Debug\LeetcodeTests.csprojResolveAssemblyReference.cache
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\obj\Debug\LeetcodeTests.dll
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\obj\Debug\LeetcodeTests.pdb
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\bin\Debug\S2AddTwoNumbers.dll
+C:\Users\James\Source\Repos\LeetCode\Leetcode\LeetcodeTests\bin\Debug\S2AddTwoNumbers.pdb

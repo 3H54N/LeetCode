@@ -29,10 +29,25 @@ namespace S2AddTwoNumbers
             return ln.val + toString(ln.next);
         }
 
-        public ListNode(String number)
+        public ListNode(String numbers)
         {
-            nums = number;
-            i = 0;
+            ListNode next = null;
+            ListNode parent = null;
+            foreach (var number in numbers)
+            {                
+                if (next == null)
+                {
+                    this.val = int.Parse(number.ToString());
+                    next = this;
+                    parent = this;
+                }
+                else
+                {
+                    next = new ListNode(int.Parse(number.ToString()));
+                    parent.next = next;
+                    parent = next;
+                }
+            }
         }
 
 

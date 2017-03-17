@@ -1,0 +1,5 @@
+C:\Users\James\Source\Repos\LeetCode\Leetcode\S1TwoSum\bin\Debug\S1TwoSum.dll
+C:\Users\James\Source\Repos\LeetCode\Leetcode\S1TwoSum\bin\Debug\S1TwoSum.pdb
+C:\Users\James\Source\Repos\LeetCode\Leetcode\S1TwoSum\obj\Debug\S1TwoSum.csprojResolveAssemblyReference.cache
+C:\Users\James\Source\Repos\LeetCode\Leetcode\S1TwoSum\obj\Debug\S1TwoSum.dll
+C:\Users\James\Source\Repos\LeetCode\Leetcode\S1TwoSum\obj\Debug\S1TwoSum.pdb
